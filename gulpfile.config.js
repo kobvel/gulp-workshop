@@ -9,7 +9,7 @@ var GulpConfig = (function() {
 
         this.app = {
             js: [],
-            less: [],
+            css: ['./src/css/**/*.css'],
             views: [],
             index: ['./src/index.html']
         }

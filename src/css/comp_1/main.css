@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+    cursor: default;
+    font-family: arial, sans-serif;
+    font-size: small;
+    margin: 0;
+    overflow-x: hidden;
+}

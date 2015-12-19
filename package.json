@@ -18,6 +18,7 @@
   "homepage": "https://github.com/kobvel/gulp-workshop#readme",
   "devDependencies": {
     "bower": "^1.7.1",
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0"
   }
 }
