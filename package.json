@@ -1,0 +1,22 @@
+{
+  "name": "gulp-workshop",
+  "version": "1.0.0",
+  "description": "this is my first gulp training",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobvel/gulp-workshop.git"
+  },
+  "author": "kobvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kobvel/gulp-workshop/issues"
+  },
+  "homepage": "https://github.com/kobvel/gulp-workshop#readme",
+  "devDependencies": {
+    "bower": "^1.7.1"
+  }
+}

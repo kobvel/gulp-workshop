@@ -1,0 +1,21 @@
+{
+  "name": "gulp-workshop",
+  "description": "this is my first gulp training",
+  "main": "index.html",
+  "authors": [
+    "kobvel"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kobvel/gulp-workshop",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
