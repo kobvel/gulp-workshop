@@ -1,3 +1,3 @@
 (function comp_2(window) {
-	window.hello = 'Hello World';
+	this.hello = 'Aloha World';
 })(window);
