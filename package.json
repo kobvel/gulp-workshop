@@ -4,6 +4,8 @@
   "description": "this is my first gulp training",
   "main": "index.html",
   "scripts": {
+    "prestart": "npm install && bower i",
+    "start": "gulp watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +21,9 @@
   "devDependencies": {
     "bower": "^1.7.1",
     "gulp": "^3.9.0",
-    "gulp-concat": "^2.6.0"
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-watch": "^4.3.5"
   }
 }
